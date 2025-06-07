@@ -1,10 +1,11 @@
 # Personal Research Assistant Agent
-🔍 Project Overview
+#🔍 Project Overview
+
 The AI Research Summarizer Agent project aims to simplify the process of staying up-to-date with academic research by automating the task of searching and summarizing research papers. It assists researchers, students, and professionals by providing concise summaries of the latest papers from sources like arXiv, enabling more informed and faster literature reviews.
 
 The core idea is to leverage natural language processing (NLP) and summarization models to transform dense academic abstracts into easily digestible summaries.
 
-🧩 Problem Statement
+#🧩 Problem Statement
 With the exponential growth in scientific publications, it becomes overwhelming to manually sift through and interpret numerous papers. Researchers struggle with information overload and time constraints. This project tackles the problem by automating:
 
 Query-based search of latest research papers.
