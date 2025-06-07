@@ -1,1 +1,1 @@
-# AI_Research_Summarizer_Agent
+# Personal Research Assistant Agent
