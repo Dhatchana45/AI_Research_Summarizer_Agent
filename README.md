@@ -17,17 +17,6 @@
 # 📦 Data Source
 ### Used the arXiv API to fetch abstracts of recent academic papers based on user-input queries. arXiv is a free distribution service and an open-access archive for scholarly articles.
 
-# 🛠️ Tools and Software Used
-### | Category               | Tools / Libraries                                      |
-### | ---------------------- | ------------------------------------------------------ |
-### | Programming Language   | Python                                                 |
-### | ML/NLP Models          | `facebook/bart-large-cnn` via HuggingFace Transformers |
-### | Summarization Pipeline | HuggingFace Transformers `pipeline`                    |
-### | Web Scraping           | BeautifulSoup, `requests`                              |
-### | UI & Deployment        | Streamlit                                              |
-### | IDEs Used              | Jupyter Notebook, Google Colab, VS Code                |
-### | Version Control        | Git, GitHub                                            |
-### | Documentation          | Markdown, README                                       |
 
 
 # 🧠 System Design & Functionality
